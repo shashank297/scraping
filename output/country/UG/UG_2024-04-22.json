@@ -1,0 +1,24 @@
+{
+    "dreams": [
+        {
+            "country": "UG",
+            "date": "Sun, 04 Jun 2023 00:00:00 GMT",
+            "dream": "I dreamt when my sex tape had leaked and I was so ashamed \nEveryone knew \nAnd was laughing at me I was very humiliated and my loved ones all knew ",
+            "generated_artwork": true,
+            "id": 582767,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/b8ff4e4a-865b-4826-9e38-a8838ce3327a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234502Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c334616ced3d04499eb6aa50ca09fc9e2189ae32f82abc9007ee143682c5bdc0",
+            "interpretation": "Dreams of public humiliation and exposure can be quite distressing. Dreaming about a sex tape leak and feeling ashamed and humiliated indicates that you may have feelings of guilt, shame or vulnerability about something in your waking life. This dream could also symbolize a fear of being exposed or publicly humiliated. You may be afraid of losing the respect of your loved ones or being seen as someone unworthy of respect. It's possible that the dream is urging you to confront and deal with your inner feelings of guilt or shame to overcome these fears.",
+            "lat": 0.3,
+            "leap_image_id": null,
+            "long": 32.5,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": "Exposed and Ashamed: The Humiliation of My Leaked Sex Tape",
+            "user_id": 487860
+        }
+    ],
+    "has_shared_location": true,
+    "success": true
+}

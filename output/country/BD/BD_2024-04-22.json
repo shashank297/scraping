@@ -1,0 +1,60 @@
+{
+    "dreams": [
+        {
+            "country": "BD",
+            "date": "Tue, 30 May 2023 00:00:00 GMT",
+            "dream": "was going to abroad with plane which is similar to rollar coasters. ",
+            "generated_artwork": true,
+            "id": 575141,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/1418e8a5-c9f0-4f07-b00f-37466297b19d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234419Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f5adbec6b39d5cf6eb8bc812fc354ae06d5a9b4ba9046fea8daac1e44ba40838",
+            "interpretation": "To dream about going abroad on a plane that resembles a roller coaster suggests a sense of uncertainty and instability in your waking life. The roller coaster-like plane may symbolize that the journey ahead may be unpredictable and turbulent. It could also represent your fear of the unknown, challenges or obstacles you may face on your journey.\n\nAlternatively, the dream may reveal your longing for a sense of excitement and adventure in your life. You may be seeking new experiences, cultures, and perspectives by traveling abroad.\n\nConsider your personal life situation and identify if there are any upcoming changes or challenges that may have triggered the dream. You may benefit from facing your fears and embracing the unknown to overcome any obstacles ahead.",
+            "lat": 23.8,
+            "leap_image_id": null,
+            "long": 90.4,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": "Skybound Adventures: A Thrilling Roller Coaster Journey into Foreign Worlds",
+            "user_id": 663738
+        },
+        {
+            "country": "BD",
+            "date": "Sun, 28 May 2023 00:00:00 GMT",
+            "dream": "i was falling from a so tall building that  but under me was blue sea with black cloud and suddenly again i started fallen from another cloud of white",
+            "generated_artwork": true,
+            "id": 571555,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/28947856-3e54-4a54-bc0a-2fbc36d255e5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234419Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=da02dc5a17b11db31472a14d57b3cc488dae29c58fb449d943373c012758d71a",
+            "interpretation": "This dream could symbolize a feeling of instability or insecurity in your life. Falling from a tall building could represent a fear of failing or losing control of a situation. The blue sea with black clouds could indicate a sense of chaos or dark emotions that you may be experiencing. However, the white cloud you fall from could suggest that you have found a solution or a way out of this challenging situation. Perhaps, this dream could be a sign of hope, reminding you that even when things seem to be falling apart, there is always a chance for a positive outcome.",
+            "lat": 23.8,
+            "leap_image_id": null,
+            "long": 90.4,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": "Freefall Symphony: A Spiraling Dive Through Skies of Contrasting Shadows",
+            "user_id": 536586
+        },
+        {
+            "country": "BD",
+            "date": "Sun, 28 May 2023 00:00:00 GMT",
+            "dream": "i had a dream that i was in a war field with my mates and they are dying one by one but no bullet was touching me instead they were dying though  i am not a soldier and never touched a fire arms.",
+            "generated_artwork": true,
+            "id": 571548,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/2639f8cf-b345-4199-9524-1b0c73270051.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234419Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=892359e7be28a2669953939f2dd714d41db59d914b5eca1d16024f315ff9be69",
+            "interpretation": "The dream about being in a war field may suggest that you are facing a personal struggle or conflict in your waking life. Your friends dying around you may symbolize that you are feeling helpless and unable to save those closest to you. However, the fact that no bullet is touching you may indicate that you feel protected or immune to the dangers. This dream may also represent the feeling of being an outsider in a situation where others are struggling. It may indicate that you need to find a way to support those around you, even if you are not directly involved in the conflict.",
+            "lat": 23.8,
+            "leap_image_id": null,
+            "long": 90.4,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": "Unyielding Guardian: Witnessing Death on the Battlefield",
+            "user_id": 536586
+        }
+    ],
+    "has_shared_location": true,
+    "success": true
+}

@@ -1,0 +1,42 @@
+{
+    "dreams": [
+        {
+            "country": "KE",
+            "date": "Sun, 18 Jun 2023 00:00:00 GMT",
+            "dream": "I dreamt I was in a house that looks like my grandma, the setting was close to my grandma's house and I was with my mom and there were snakes in the house and orange one a black, white and grey one with patterns and another that I can't remember the colour and hardly ever moved around. We were looking for sticks to hit them with but I didn't want to hurt the snakes. I put on music on Spotify to try and drive them away. The orange snake sort of licked me on the heel of my foot and it kept following me everywhere I tried to hide or climb. My cats were trying to help us get rid of the snakes and my childhood friend gave me a log I could use to kill the snakes with. My mother broke it into two and not we both had logs",
+            "generated_artwork": true,
+            "id": 601967,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/36ac3b54-4d7d-401c-be60-c8ddde3aa167.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234429Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1118966aa35a7cb6873bd3ee8e8a444505d1b97484fdb4a3efb95b7ace69a14a",
+            "interpretation": "This dream may symbolize various elements and emotions in your subconscious mind. The house resembling your grandmother's suggests a sense of nostalgia or sentimentality. Snakes often represent hidden fears, anxieties, or temptations in dreams. The presence of multiple snakes, including ones with different colors and patterns, indicates that there may be various concerns or issues that you are grappling with at the moment.\n\nYour hesitation to hurt the snakes demonstrates a compassionate nature and a reluctance to confront your fears in a forceful manner. Trying to drive them away with music on Spotify suggests a desire to distract or escape from these anxieties. The orange snake licking your heel and persistently following you may symbolize a specific fear or concern that is actively \"tracking\" you, causing you to feel threatened or pursued.\n\nThe involvement of your cats and childhood friend indicates a need for support and assistance in dealing with these challenges. The cats represent intuition and instinct, while your childhood friend offering a log could symbolize a source of empowerment and the ability to confront your fears head-on.\n\nThe fact that your mother breaks the log into two to give you both suggests a shared effort and collaboration in facing and overcoming these anxieties. This dream may be telling you to rely on your support network and embrace the help and guidance offered to you in order to overcome your fears.",
+            "lat": -4.0,
+            "leap_image_id": null,
+            "long": 39.7,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": "Grandma's House of Serpents: a Dream Encounter with Colorful Intruders",
+            "user_id": 720801
+        },
+        {
+            "country": "KE",
+            "date": "Sun, 11 Jun 2023 00:00:00 GMT",
+            "dream": "I dreamt that I had friends that I thought were humans but these friends turned out not to be humans.one was an angel with golden wings,the other was a peacock, the other was a fairy,the other one was a giant named ika and the last one was a snake. What does that s mean? ",
+            "generated_artwork": true,
+            "id": 592271,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/c8f45ace-f303-412a-9270-6dcf536058da.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234429Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=88b74722cdf057c1c6f2c1e8a4e3a971c3e430189e89f8d5213bee96674d450c",
+            "interpretation": "Dreams involving non-human creatures can represent your subconscious mind's attempt to symbolize certain things or people in your life. In your dream, the angel with golden wings may represent a spiritual or divine influence in your life. The peacock might represent beauty and extravagance. The fairy might represent playfulness or magical thinking. The giant named Ika might represent intimidating or overwhelming personalities in your life. Lastly, the snake might symbolize transformation, healing, or hidden wisdom.\n\nOverall, this dream could represent your growing awareness of the diverse people and energies around you. You might be learning to appreciate different perspectives or recognize the various roles that others play in your life. Additionally, this dream could be encouraging you to expand your awareness, embrace your intuition, and trust in the mysteries of life.",
+            "lat": -1.2,
+            "leap_image_id": null,
+            "long": 36.9,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": "Unveiling My Otherworldly Companions: Angel, Peacock, Fairy, Giant, and Snake - A Surprising Encounter",
+            "user_id": 701317
+        }
+    ],
+    "has_shared_location": true,
+    "success": true
+}

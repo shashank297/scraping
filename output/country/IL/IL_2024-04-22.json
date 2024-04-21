@@ -1,0 +1,24 @@
+{
+    "dreams": [
+        {
+            "country": "IL",
+            "date": "Mon, 26 Jun 2023 00:00:00 GMT",
+            "dream": "I had a dream where my boyfriend and I were at some family event. My boyfriend sat next to me. His extended family members where there, too. They all congratulated him, but for some reason they ignored me as if I don't exist. I notice that he is ignoring me a little bit, too. On my hand there are many rings he gave me as presents, but they are cheap plastic rings. Even the gemstones located in the of each ring start to detach from a glue material that sticks it in place. I tell him I'll wear it even when everyone can tell it's unaesthetic. He tells me he didn't notice. ",
+            "generated_artwork": true,
+            "id": 613412,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/88f51194-8796-4efa-be29-954c6152f0f8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234443Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cd1139d243723119a3f3939b04675f8827d93217eb56e21896cc9e910fdd9d19",
+            "interpretation": "This dream may symbolize feelings of insecurity and inadequacy within your relationship. The family event represents a social setting where your boyfriend's extended family members are present, representing a sense of belonging and acceptance. However, their congratulating your boyfriend while ignoring you suggests that you may feel overlooked and unimportant in your relationship.\n\nThe cheap plastic rings with detached gemstones represent the perceived lack of value or importance given to you. They may indicate that you feel that the gestures of love and affection from your boyfriend are not substantial or meaningful enough. The detachment of the gemstones further emphasizes the sense of things falling apart or not being securely held together.\n\nYour remark about wearing the unaesthetic ring even when others can tell reflects your willingness to put up with the less desirable aspects of the relationship or settle for less than what you deserve. Your boyfriend's response of not noticing may suggest a lack of awareness or understanding of your feelings and needs.\n\nOverall, this dream highlights feelings of being disregarded and undervalued in your relationship. It may be important to communicate your concerns and insecurities with your boyfriend to ensure that you both understand each other's needs and make necessary adjustments to strengthen your connection.",
+            "lat": 32.8,
+            "leap_image_id": null,
+            "long": 35.0,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": "Unseen and Unseen: A Plastic Love",
+            "user_id": 741674
+        }
+    ],
+    "has_shared_location": true,
+    "success": true
+}

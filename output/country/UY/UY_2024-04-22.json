@@ -1,0 +1,42 @@
+{
+    "dreams": [
+        {
+            "country": "UY",
+            "date": "Sun, 02 Jul 2023 00:00:00 GMT",
+            "dream": "Tengo una perrita inv\u00e1lida y so\u00f1e que volv\u00eda a caminar.  Los primeros pasos eran con dificultad. Luego intentaba ponerle su andador y lo perd\u00eda.  El resto del sue\u00f1o transcurr\u00eda en que buscaba el andador ",
+            "generated_artwork": true,
+            "id": 621678,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/f84baeee-0e5a-4242-88ad-1a9a6afcbcd7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234510Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0b781014f5fe5af2ed6e4e5fcb9ad998344c7c7090ec4c825f2cf8b249076c24",
+            "interpretation": "Los sue\u00f1os pueden tener diversas interpretaciones y su significado depende frecuentemente de las experiencias personales y las emociones de quien sue\u00f1a. En este sue\u00f1o, el hecho de que una perra discapacitada pueda caminar de nuevo puede simbolizar un sentido de esperanza, progreso o mejora en tu vida despierto. Puede reflejar un deseo de cambio positivo o la creencia de que los obst\u00e1culos pueden superarse.\n\nLa dificultad para dar los primeros pasos podr\u00eda representar los desaf\u00edos iniciales o el malestar que pueden surgir al abrazar el cambio o comenzar algo nuevo. Sugiere que es posible que necesites superar alguna resistencia o dificultad inicial antes de lograr el progreso deseado.\n\nLa parte del sue\u00f1o donde pierdes el andador puede significar el miedo a perder el apoyo o las herramientas en las que te apoyas durante momentos de transici\u00f3n o crecimiento. Podr\u00eda representar una sensaci\u00f3n de vulnerabilidad o incertidumbre sobre c\u00f3mo navegar los cambios.\n\nEl resto del sue\u00f1o dedicado a buscar el andador implica la necesidad de orientaci\u00f3n, estabilidad o un sentido de control durante este proceso transformador. Puede indicar que est\u00e1s buscando recursos externos o gu\u00eda para ayudarte a alcanzar tus metas o progresar.\n\nEn general, este sue\u00f1o puede estar anim\u00e1ndote a seguir adelante, incluso cuando te enfrentas a dificultades o contratiempos. Sugiere que con determinaci\u00f3n y apoyo, los cambios positivos son posibles, pero pueden requerir algo de ayuda y perseverancia para mantener la estabilidad y navegar las incertidumbres en el camino.",
+            "lat": -34.9,
+            "leap_image_id": null,
+            "long": -56.2,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": null,
+            "user_id": 459347
+        },
+        {
+            "country": "UY",
+            "date": "Wed, 24 May 2023 00:00:00 GMT",
+            "dream": "Estaba en en barco que navegaba en un mar ello de estrellas, galaxia y colores muy brillantes ",
+            "generated_artwork": true,
+            "id": 559707,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/b31e9bc0-28a2-4768-b718-429e1c399d29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234510Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6f4492e38d9b7231c2c8447588c00013efdf04efc6433f928cc866deab115c69",
+            "interpretation": "Este sue\u00f1o podr\u00eda simbolizar un sentido de asombro y las vastas posibilidades de tu mente y esp\u00edritu. El barco en el que estabas podr\u00eda representar tu viaje a trav\u00e9s de la vida, y el mar lleno de estrellas, galaxias y colores brillantes podr\u00eda simbolizar una sensaci\u00f3n de asombro inspirador y posibilidades infinitas que est\u00e1n a tu disposici\u00f3n.\n\nEste sue\u00f1o tambi\u00e9n podr\u00eda indicar un viaje espiritual, sugiriendo que est\u00e1s buscando un sentido m\u00e1s profundo de prop\u00f3sito o significado en tu vida. Las estrellas y los colores brillantes podr\u00edan simbolizar revelaciones espirituales, y el hecho de que est\u00e9s en un barco podr\u00eda representar tu disposici\u00f3n para embarcarte en este viaje.\n\nAdem\u00e1s, este sue\u00f1o podr\u00eda sugerir que te sientes esperanzado y positivo acerca del futuro, y podr\u00eda animarte a seguir adelante con un sentido de asombro, curiosidad y entusiasmo para explorar la riqueza de la vida.",
+            "lat": -33.9,
+            "leap_image_id": null,
+            "long": -58.4,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": null,
+            "user_id": 629811
+        }
+    ],
+    "has_shared_location": true,
+    "success": true
+}

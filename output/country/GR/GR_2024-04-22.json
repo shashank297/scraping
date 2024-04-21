@@ -1,0 +1,60 @@
+{
+    "dreams": [
+        {
+            "country": "GR",
+            "date": "Tue, 27 Jun 2023 00:00:00 GMT",
+            "dream": "I saw my first flirt woman school age. Just talk and a friendly kiss",
+            "generated_artwork": true,
+            "id": 615064,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/964ddae7-0275-451a-8129-c50886890ffc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234453Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2101cb377672d2ad78d96d6c3a68008c7cf38ca7f5c13245e06aca945229faf4",
+            "interpretation": "Dreams can have various interpretations, as they are subjective to each individual. However, based on the content you provided, it could suggest the following:\n\nSeeing yourself flirting with a woman of school age in a dream may represent a desire for connection and social interaction. It could indicate a longing for innocence, as school age represents a time of youthful energy and carefree behavior. The friendly kiss may symbolize a mild level of affection or the need for emotional intimacy.\n\nAlternatively, this dream could also reflect nostalgia for past experiences or relationships. It may indicate a desire to reconnect with qualities of your younger self, such as curiosity, openness, and playful interactions.\n\nAs with any dream interpretation, it's important to consider your personal feelings, experiences, and current circumstances to gain a more accurate understanding of the dream's meaning for you.",
+            "lat": 38.0,
+            "leap_image_id": null,
+            "long": 23.8,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": "Innocent Encounters: A Schoolgirl's Friendly Kiss Unlocks Memories of First Flirtations",
+            "user_id": 726112
+        },
+        {
+            "country": "GR",
+            "date": "Tue, 20 Jun 2023 00:00:00 GMT",
+            "dream": "I saw a black car (priest's car) outside a church.",
+            "generated_artwork": true,
+            "id": 604854,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/6296ec7a-72bb-4bbb-94f4-6827ed7ce453.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234453Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f6c77cd2323b2063146b373fac9e24a7c7e38292dc46689bc7f54cf6c85bbe5d",
+            "interpretation": "Dreams can have multiple interpretations, as they are deeply personal and can be influenced by individual experiences and emotions. However, seeing a black car (specifically a priest's car) outside a church can symbolize various meanings.\n\n1. Symbolism of authority and spirituality: The black car represents power, authority, and distinction. Seeing it outside a church may suggest a connection between religious or spiritual authority and the institution itself. This could indicate a desire for guidance, support, or seeking answers to spiritual questions.\n\n2. Symbolism of mystery and the unknown: The color black often represents the unknown or hidden aspects of our lives. In this dream, the black car represents that mystery, while the church symbolizes a place of gathering and seeking truth. It could suggest a subconscious yearning to explore deeper aspects of spirituality or religion.\n\n3. Symbolism of transitions: Churches are often associated with significant life transitions, such as weddings or funerals. Seeing the black car outside the church might symbolize an upcoming change or transition in your life that has connections to spirituality or religion. It could be a reminder to seek support during times of change or to find solace in your beliefs.\n\nUltimately, the interpretation of this dream depends on your personal experiences, beliefs, and emotions. Reflecting on your own associations with churches, priests, and black cars may provide additional insights into the specific meaning for you.",
+            "lat": 38.0,
+            "leap_image_id": null,
+            "long": 23.8,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": "Midnight Encounter: Enigmatic Black Car Lingers by the Church",
+            "user_id": 726112
+        },
+        {
+            "country": "GR",
+            "date": "Mon, 22 May 2023 00:00:00 GMT",
+            "dream": "A cottage in a big trees Forest green montain close to a river or a lake with the landscape view of downwards lake and forests",
+            "generated_artwork": true,
+            "id": 553320,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/61c8c981-d323-4fd2-9afd-3229cd34dffd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234453Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=add02329ad441530e01e7b04125d7190cc6f6fd0e9c54a6fc5fd89f17fb47052",
+            "interpretation": "This dream may represent a sense of tranquility and solitude. The cottage in the forest of green mountains symbolizes relaxation and a break from the hustle and bustle of everyday life, while the river or lake suggests a flow of emotions or a desire for emotional healing. The downward view of the lake and forests also indicates a need for introspection and reflection. This dream may serve as a reminder to take time out for self-care and to find a peaceful retreat to recharge and rejuvenate yourself.",
+            "lat": 39.2,
+            "leap_image_id": null,
+            "long": 26.5,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": null,
+            "staged_for_deletion": false,
+            "title": "Enchanting Cottage Escape: Majestic Forest, Serene Waters",
+            "user_id": 615518
+        }
+    ],
+    "has_shared_location": true,
+    "success": true
+}

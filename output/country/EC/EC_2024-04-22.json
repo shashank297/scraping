@@ -1,0 +1,42 @@
+{
+    "dreams": [
+        {
+            "country": "EC",
+            "date": "Thu, 29 Jun 2023 00:00:00 GMT",
+            "dream": "so\u00f1e que volaba y rompia un cielo de cristal",
+            "generated_artwork": true,
+            "id": 618200,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/a12ec186-d6ad-4ed1-b298-010eee97a53b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234445Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a8d8b72ddff6fe94a64abb37e5ee4c15eaf49900cf55fe59646833596bbc5177",
+            "interpretation": "So\u00f1ar con volar a menudo simboliza la libertad, la liberaci\u00f3n y el deseo de independencia. Romper un cielo de cristal en el sue\u00f1o sugiere la necesidad de superar barreras o limitaciones que te est\u00e1n frenando en la vida real. Esto significa tener la voluntad de romper las fronteras que confinan o restringen tu progreso y potencial. Este sue\u00f1o puede indicar un fuerte deseo de superar obst\u00e1culos y lograr un sentido de empoderamiento personal. Tambi\u00e9n puede simbolizar una disposici\u00f3n a correr riesgos o desafiar el pensamiento convencional, ya que el cielo de cristal representa los l\u00edmites impuestos por la sociedad o tus propias creencias. En general, este sue\u00f1o sugiere un anhelo de crecimiento personal, exploraci\u00f3n y la b\u00fasqueda de aspiraciones personales m\u00e1s all\u00e1 de las limitaciones impuestas.",
+            "lat": -0.2,
+            "leap_image_id": null,
+            "long": -78.5,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": null,
+            "user_id": 750552
+        },
+        {
+            "country": "EC",
+            "date": "Wed, 24 May 2023 00:00:00 GMT",
+            "dream": "So\u00f1\u00e9 que caminaba por una autopista rodeada de arboles de pino, una niebla densa impedia ver lejos. Mientras caminaba escuchaba voces de gente que lamentaba mi partida, como si yo hubiese ya muerto. ",
+            "generated_artwork": true,
+            "id": 559887,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/abf8e0e4-4c2d-46a7-8b43-fd240821da73.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234445Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7c42620b27830177ec3535807f9ace2eec28aaea3efe98874c9d964bd4296755",
+            "interpretation": "Los sue\u00f1os sobre caminar en una carretera pueden representar un viaje a trav\u00e9s de la vida. La densa niebla en tu sue\u00f1o puede simbolizar incertidumbre o confusi\u00f3n acerca de tu viaje. La presencia de \u00e1rboles de pino puede indicar crecimiento, estabilidad y longevidad. Las voces afligidas podr\u00edan representar un miedo al abandono o una sensaci\u00f3n de no ser apreciado. Alternativamente, podr\u00eda simbolizar un sentido de culpa por dejar atr\u00e1s a alguien o algo. En general, este sue\u00f1o sugiere que puedes sentirte inseguro acerca de hacia d\u00f3nde se dirige tu vida y que tienes algunas cuestiones emocionales sin resolver que abordar.",
+            "lat": -4.0,
+            "leap_image_id": null,
+            "long": -79.2,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": null,
+            "user_id": 630169
+        }
+    ],
+    "has_shared_location": true,
+    "success": true
+}

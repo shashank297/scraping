@@ -1,0 +1,24 @@
+{
+    "dreams": [
+        {
+            "country": "PE",
+            "date": "Sun, 04 Jun 2023 00:00:00 GMT",
+            "dream": "So\u00f1\u00e9 que me ve\u00eda con mi ex pareja, el fue cari\u00f1oso y dulce, pero luego me acusaba de un crimen y llamo a la polic\u00eda que trato de encarcelarme pero escape varias veces. Mi condena era de 5 a\u00f1os. Yo lloraba mucho ",
+            "generated_artwork": true,
+            "id": 582687,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/93d4b6cf-82a2-446b-a36c-1faaf3445ce5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234432Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8a252ff37d0a3703ef7e85856ff33e717583474f0b03862e87fe84c851f5fae8",
+            "interpretation": "Este sue\u00f1o podr\u00eda sugerir que est\u00e1s sintiendo conflicto acerca de tu relaci\u00f3n pasada con tu ex-pareja. El comportamiento cari\u00f1oso y dulce de tu ex-pareja en el sue\u00f1o puede representar los aspectos positivos de tu relaci\u00f3n pasada que a\u00fan extra\u00f1as o anhelas. Sin embargo, la acusaci\u00f3n de un crimen y ser puesto en la c\u00e1rcel puede representar sentimientos de culpa o mala conducta asociados con la relaci\u00f3n. Es posible que tengas algunos problemas o emociones sin resolver relacionados con esta relaci\u00f3n pasada que necesites abordar y liberar para poder avanzar. Alternativamente, el sue\u00f1o puede simbolizar un miedo a ser castigado por algo que no has hecho o sentir que has sido acusado injustamente de algo en tu vida despierta.",
+            "lat": -12.1,
+            "leap_image_id": null,
+            "long": -77.1,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": null,
+            "user_id": 680374
+        }
+    ],
+    "has_shared_location": true,
+    "success": true
+}

@@ -1,0 +1,42 @@
+{
+    "dreams": [
+        {
+            "country": "NO",
+            "date": "Mon, 11 Mar 2024 00:00:00 GMT",
+            "dream": "I dreamt about the brother (that I do not know) of one guy I am currently hanging out with and we chilled out on a rainy and dark city that I used to live in and when I was with him in the dream all of a sudden he shapeshifted his eyes into reptilian eyes, thereby proving that he was an alien of the reptilian race, he also abused cocaine..",
+            "generated_artwork": true,
+            "id": 838122,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/038a9a62-c21d-49ca-91da-3edaa36c38b1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234454Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0e6e88818d5b048efb75f2086e3d7d1bf4c772de9b6cee0b112b10771ca69672",
+            "interpretation": "Dreams are highly individual and can be influenced by personal experiences, thoughts, and emotions. Therefore, the interpretation of dreams can vary from person to person. However, I can provide you with a general analysis of the symbols in your dream.\n\nThe brother you do not know may represent an unknown or unfamiliar aspect of yourself or your current situation. Hanging out with him in a rainy and dark city, which you used to live in, could symbolize revisiting past emotions or situations that were emotionally challenging or difficult.\n\nThe sudden shape-shifting of his eyes into reptilian eyes may symbolize encountering deceptive or hidden aspects of someone or something in your waking life. This could represent a situation or person who may not be as they appear on the surface. It could suggest a need for caution and discernment in your relationships or circumstances.\n\nThe mention of cocaine abuse in the dream may symbolize a need to escape or cope with difficult emotions or situations. It could be a reflection of a desire for excitement or stimulation, or it could represent feelings of powerlessness or a need for control.\n\nOverall, this dream may point to the importance of paying attention to your intuition and being cautious in your relationships and interactions. It could also be a reminder to address any unresolved emotions or experiences from your past.",
+            "lat": 60.0,
+            "leap_image_id": "a85dc8d5-573b-46ba-b61b-d3ca03c283d9",
+            "long": 10.9,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": "\"Chilling with the Alien Brother: Rainy City Secrets and Shapeshifting Reptilian Eyes\"",
+            "user_id": 995519
+        },
+        {
+            "country": "NO",
+            "date": "Mon, 11 Mar 2024 00:00:00 GMT",
+            "dream": "my dream is about being in bergen, norway and its dark and rainy and strange things happen that make no sense\n",
+            "generated_artwork": true,
+            "id": 838110,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/7e8af118-7a20-4e15-be4c-37034852f669.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234454Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7a17fd0363fa5efada6d82da4edd1940b7e076384b58c9d533245f992f1241ad",
+            "interpretation": "Dreams can often reflect our emotions, experiences, and subconscious thoughts. Being in Bergen, Norway in your dream may symbolize a desire for exploration or a need for change and new experiences. The dark and rainy atmosphere could suggest feelings of gloominess or uncertainty in your waking life. The strange and nonsensical events in your dream may indicate a sense of confusion or a feeling that things are not going as planned. This dream might be reflecting a need for clarity, stability, and a better understanding of your current circumstances. It could be helpful to reflect on any challenges or uncertainties you may be facing in your waking life and consider what steps you can take to find a sense of direction and control.",
+            "lat": 59.9,
+            "leap_image_id": "ed029922-5695-46d1-9536-1bdc5d20ed85",
+            "long": 10.7,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": null,
+            "staged_for_deletion": false,
+            "title": "\"Enigmatic Encounters: A Rainy Night in Mysterious Bergen\"",
+            "user_id": 995519
+        }
+    ],
+    "has_shared_location": true,
+    "success": true
+}

@@ -1,0 +1,24 @@
+{
+    "dreams": [
+        {
+            "country": "BO",
+            "date": "Tue, 30 May 2023 00:00:00 GMT",
+            "dream": "Last night i dreamt i was in a family trip, and suddenly my ex lover appeared but he was running away from me, until we had a confrontation ",
+            "generated_artwork": true,
+            "id": 575217,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/4ef7985e-2335-442c-b08d-a6d70e36c7ab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234511Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=70cc027d8cecd18c00520ff4fc6d4597f159752457ba41ac04ab5e91e51ffabc",
+            "interpretation": "This dream may be indicating that unresolved feelings with your ex-lover are still present, despite being on a family trip or moving on from the relationship. The fact that he is running away from you may symbolize avoidance or a desire to distance himself from the situation. The confrontation could represent a need to confront these feelings and emotions in waking life, either through communication or introspection. It may also suggest the need to let go of any lingering attachment or resentment towards the past relationship in order to move forward.",
+            "lat": -17.4,
+            "leap_image_id": null,
+            "long": -66.2,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": "The Elusive Reunion: A Family Trip Turned Haunting Encounter",
+            "user_id": 663863
+        }
+    ],
+    "has_shared_location": true,
+    "success": true
+}

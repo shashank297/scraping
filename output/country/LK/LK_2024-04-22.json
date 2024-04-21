@@ -1,0 +1,24 @@
+{
+    "dreams": [
+        {
+            "country": "LK",
+            "date": "Fri, 02 Jun 2023 00:00:00 GMT",
+            "dream": "I saw a group of people climbing on to the top of a rock. I was waiting by the side and I checked around the rock where I found I stairway to the top and I ended up reaching the top first",
+            "generated_artwork": true,
+            "id": 579708,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/66535177-8198-4528-8ac4-f209f07b24e1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234450Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cca025e951b13aab3a0df067f4961fa96a40e0ae86260f3ca5a336699d34339b",
+            "interpretation": "This dream could symbolize your desire to succeed and lead the way. The rock could represent a challenge or obstacle in your life, while the people climbing it may represent your peers or colleagues. Your decision to take a different approach and search for a stairway may indicate that you think outside the box and are not afraid to take unconventional routes to achieve your goals. Reaching the top first can mean that you have the ability to succeed and emerge triumphant in situations where others may struggle.",
+            "lat": 7.3,
+            "leap_image_id": null,
+            "long": 80.7,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": "Ascending Victory: Conquering Heights Ahead of the Pack",
+            "user_id": 674094
+        }
+    ],
+    "has_shared_location": true,
+    "success": true
+}

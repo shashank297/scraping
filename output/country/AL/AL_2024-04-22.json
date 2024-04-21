@@ -1,0 +1,42 @@
+{
+    "dreams": [
+        {
+            "country": "AL",
+            "date": "Tue, 06 Jun 2023 00:00:00 GMT",
+            "dream": "I was at my grandparents home. we were having fun. the doors and windows were open. suddenly, a white crazy wolf came in and started chasing me around the house. i kept running and escaping from him everytime he got close to me. we never got out of the house at any point. we keep running up and down the house but the wolf never got me. suddenly, he stops and calmly gets out from the door. after that i closed every door and every window in the house.       i have seen this dream many many times.",
+            "generated_artwork": true,
+            "id": 586053,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/fb1eae09-d048-49a0-9b0f-e7ad0d00b171.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234420Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ed9f931b6244ead0ddd700912e57caaa4066af3102b36d5cd737966d5b91f227",
+            "interpretation": "The dream may represent a situation or problem that you are facing in your waking life. The wolf in the dream can symbolize a threat or fear that you are trying to avoid. Your grandparents' home could represent a sense of safety and security that you seek in your life. \n\nThe fact that the doors and windows were open implies a sense of vulnerability and openness. Perhaps you feel like you are exposing yourself too much to external factors, which can be harmful to you. \n\nThe constant running and escaping from the wolf indicates your struggle to avoid this threat or fear. However, the wolf stopping and calmly leaving could suggest that the issue is not as menacing as you initially thought. You may have been putting too much energy into avoiding something that does not pose a real threat.\n\nClosing all the doors and windows in the house at the end of the dream indicates a desire to protect yourself and keep out any negative influences that may be affecting you. Overall, the dream may be a sign that you need to re-evaluate your sense of safety and security and take steps to protect yourself from potential threats.",
+            "lat": 41.3,
+            "leap_image_id": null,
+            "long": 19.4,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": "Chased by a White Crazy Wolf: An Endless Pursuit in My Grandparents' Home",
+            "user_id": 333367
+        },
+        {
+            "country": "AL",
+            "date": "Tue, 23 May 2023 00:00:00 GMT",
+            "dream": "Dreaming about something  and then it happens in real life",
+            "generated_artwork": true,
+            "id": 558532,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/0576ae3d-737a-4d4c-ace9-7983243301d8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234420Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4c34b0626005ddbbac85dec3af4ef0133bf3c80a9f8ec2ab9d2afd61523b97c4",
+            "interpretation": "Dreams about something happening in real life can be a sign of clairvoyance or a premonition. It could be possible that your subconscious mind sensed a future event based on the information it has received unconsciously. Alternatively, it could be a coincidence, but it's essential to pay attention to the dream's details and compare them with the actual event to see if they match. It's also possible that the dream may have influenced your actions and decisions that led to the situation happening in waking life.",
+            "lat": 41.3,
+            "leap_image_id": null,
+            "long": 19.8,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": null,
+            "staged_for_deletion": false,
+            "title": "Premonition Palace: Dreams Align, Reality Unfolds",
+            "user_id": 627346
+        }
+    ],
+    "has_shared_location": true,
+    "success": true
+}

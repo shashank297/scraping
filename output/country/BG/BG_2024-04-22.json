@@ -1,0 +1,24 @@
+{
+    "dreams": [
+        {
+            "country": "BG",
+            "date": "Fri, 23 Jun 2023 00:00:00 GMT",
+            "dream": "I was on a business trip to Iceland. I was in a cafe/restaurant where everything was quite expensive. I was converting the prices on my telephone. It was a warm day, there wasn't any snow. While my business partner was paying, I and a girl who was a friend were discussing the prices. Then I wanted to show her a huge photo outside in the square but British tourists were blocking the view. Across the square, there were more cafes and I noticed a person I don't like, whom I know in real life. I danced a bit.",
+            "generated_artwork": true,
+            "id": 609298,
+            "image_url": "https://flask-aws-demo.s3.amazonaws.com/uploads/77f70fcd-6502-4ad4-b5a2-5a385583122f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATSTPHBMT3B2G7XV5%2F20240421%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240421T234501Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f6d563b337557009bb8b8c51b703b73c9c17a469074d3b20186e786cd3995b18",
+            "interpretation": "This dream could be interpreted as reflecting feelings of being on a journey or in a new situation (represented by the business trip) where you may feel uncomfortable or out of place (symbolized by the expensive cafe). The act of converting prices on your phone suggests a need for practicality and resourcefulness in navigating unfamiliar territory.\n\nThe absence of snow and the warm day may symbolize a departure from your usual or expected circumstances. It could also signify a sense of ease or relief in this new environment. The discussion about prices with your friend might indicate a concern or awareness about the costs and value associated with this new experience.\n\nThe desire to show your friend a huge photo outside in the square may represent a need for connection or a desire to share something important. However, the presence of British tourists blocking the view suggests obstacles or distractions preventing you from fully expressing yourself or sharing your experience.\n\nThe person you don't like, whom you know in real life, appearing across the square can symbolize unresolved conflict or negative feelings towards this individual. This encounter may suggest an underlying tension or discomfort that you are encountering or trying to avoid in your waking life.\n\nLastly, dancing can symbolize self-expression, joy, and a release of stress. Dancing in the dream could imply a desire to let go of any negative emotions or circumstances and find moments of enjoyment or liberation.\n\nOverall, this dream suggests a mixture of new experiences, challenges, and conflicting emotions. It may reflect a need for adaptability, assertiveness, and finding moments of joy amidst potentially uncomfortable or difficult situations.",
+            "lat": 42.2,
+            "leap_image_id": null,
+            "long": 24.8,
+            "moderation_flagged": false,
+            "regenerated": null,
+            "satisfied": true,
+            "staged_for_deletion": false,
+            "title": "Coffee Conversations and Price Conversions: A Dreamy Encounter in Iceland's Square",
+            "user_id": 440392
+        }
+    ],
+    "has_shared_location": true,
+    "success": true
+}
